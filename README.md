@@ -53,7 +53,7 @@ Liquibase fixes these by providing a structured, automated, and auditable way to
 
 - In your project, create:
   ```
-  src/modules/events/liquibase/
+  src/liquibase/
   ```
 
 ### 3. Create a Changelog File
